@@ -2,7 +2,7 @@
 // recompile using the make command.
 static const Block blocks[] = {
     /*Icon*/ /*Command*/ /*Update Interval*/ /*Update Signal*/
-    {"", "sb-pacpackages", 0, 8},
+    // {"", "sb-pacpackages", 0, 8},
     {"", "sb-mailbox", 180, 12},
     {"󰢮 ", "sb-gpubar", 10, 18},
     {"󰍛 ", "sb-cpubars", 10, 18},
